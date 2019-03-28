@@ -58,11 +58,10 @@
     ?>
 </head>
 <body>
-    <h1>Hello World</h1>
     <div class="container-fluid main-title">
         <div class="row">
             <div class="col">
-                <h2>Movie List</h2>
+                <h1>Movie List</h1>
             </div> <!--closing col div-->
         </div><!--closing row div-->
     </div><!--closing container-fluid div-->
@@ -73,7 +72,7 @@
             <div class="col-3">Title</div>
             <div class="col-2">Release Date</div>
             <div class="col-2">Director</div>
-            <div class="col-2">Ratings</div>
+            <div class="col-2">Rating</div>
             <div class="col-2">Rotten Tomatoes</div>
         </div><!--closing row div-->
     </div><!--closing main-headers div-->
